@@ -8,9 +8,9 @@ import { SafeAreaView, SafeAreaProvider } from 'react-native-safe-area-context';
 // import Week_3_4_Layout_H2_Bai2 from './components/Week_3_4_Layout_H2_Bai2'
 // import Week_3_4_Layout_H2_Bai2_copy from './components/Week_3_4_Layout_H2_Bai2_copy'
 
-import Bai1 from './components/bai1'
-import Bai2 from './components/bai2'
-import Bai3 from './components/bai3'
+import Bai1 from './components/GK_DE1/bai1'
+import Bai2 from './components/GK_DE1/bai2'
+import Bai3 from './components/GK_DE1/bai3'
 
 
 export default function App() {
